@@ -5,7 +5,6 @@ module.exports = {
 	output: {
 		filename: 'build.js'
 	},
-  mode: 'production',
 	module: {
 		rules: [
             {
